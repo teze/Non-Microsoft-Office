@@ -35,7 +35,8 @@ Microsoft Office 的最佳免费替代
 - 免费，开源。
 - 和LibreOffice基本差不多
 
-### onlyoffice
+
+### Onlyoffice
 [官网](https://www.onlyoffice.com/zh/)
 - 免费（个人版）
 - 支持各大平台
@@ -44,16 +45,33 @@ Microsoft Office 的最佳免费替代
 - 功能强大的在线编辑器。
 - **实时共同编辑**
 
-### wps
-- 自己百度。
-- 再熟悉不过了，不用过多介绍了。
-- 应该是国内用户主要的办公软件。
-
 ### 永中Office
 -   [官网](http://www.yozosoft.com/)
 - 免费（个人版）
 -  支持 Windows、 Linux 版，  [永中Web版本](http://www.yozodcs.com/page/webOffice.html)
 - 丰富的在线模板
+
+
+### NeoOffice
+[官网](https://www.neooffice.org/neojava/en/index.php)
+- 免费
+- 基于 [OpenOffice](http://www.openoffice.org/) and [LibreOffice](http://www.libreoffice.org/)
+
+### staroffice
+[官网](https://www.staroffice.org/)
+- 低版本免费，新版本收费
+- 小众
+
+### Polaris Office
+[官网](https://www.polarisoffice.com/zh-cn/)
+- 韩国产品
+- 不过要收费
+
+
+### WPS
+- 自己百度。
+- 再熟悉不过了，不用过多介绍了。
+- 应该是国内用户主要的办公软件。
 
 
 ### Google Office  （Google Workspace）
