@@ -48,3 +48,26 @@ Microsoft Office 的最佳免费替代
 - 自己百度。
 - 再熟悉不过了，不用过多介绍了。
 - 应该是国内用户主要的办公软件。
+
+### 永中Office
+-   [官网](http://www.yozosoft.com/)
+- 免费（个人版）
+-  支持 Windows、 Linux 版，  [永中Web版本](http://www.yozodcs.com/page/webOffice.html)
+- 丰富的在线模板
+
+
+### Google Office  （Google Workspace）
+[官网](https://workspace.google.com/)
+![image](https://user-images.githubusercontent.com/1505703/134131792-3ee18e95-1305-415f-a5ce-c9861de18803.png)
+- 免费（个人版）
+- 在线编辑
+- 云服务存储
+
+- 缺点就是：国内用户用不了，得科学上网。
+
+
+### Apple iWork
+- 客户端版本，只支持苹果用户
+- 不过可以使用**Web版本**  [iWork for iCloud](http://icloud.com/iwork)
+- 免费，云同步。
+- 需要一个Apple账号。
