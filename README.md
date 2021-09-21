@@ -8,11 +8,8 @@ Microsoft Office 的最佳免费替代
 ---
 
  ## Microsoft Office 的最佳免费替代
- 
 
-![[Untitled recording 1.webm]]
 
-![[Untitled recording 3.webm]]
 
 ### FreeOffice
 [官网]( https://www.freeoffice.com/zh/)
@@ -23,8 +20,7 @@ Microsoft Office 的最佳免费替代
 - 拥有其80%的功能，能满足大部分办公需求。
 - 轻量，小巧，190+M ，正好，不复杂，而Microsoft功能太繁，太多，学习成本高。
 
-
-![[Pasted image 20210921111618.png]]
+![image](https://user-images.githubusercontent.com/1505703/134128315-68d9e1a4-a4f1-43b2-b297-da2ba8e7e3c9.png)
 
 ### LibreOffice
 [官网](https://www.libreoffice.org/)
@@ -43,7 +39,7 @@ Microsoft Office 的最佳免费替代
 [官网](https://www.onlyoffice.com/zh/)
 - 免费（个人版）
 - 支持各大平台
-![[Pasted image 20210921114306.png]]
+![image](https://user-images.githubusercontent.com/1505703/134128412-4eb4e960-ecf9-4ca8-ba94-a54016646c4a.png)
 - 云服务，同步个人文档，各个平台共享数据。
 - 功能强大的在线编辑器。
 - **实时共同编辑**
